@@ -1,0 +1,115 @@
+﻿WorkerName
+-------------------------
+Monika                   
+Niharika                 
+Vishal                   
+Amitabh                  
+Vivek                    
+Vipul                    
+Satish                   
+Geetika                  
+
+(8 row(s) affected)
+
+
+-------------------------
+MONIKA                   
+NIHARIKA                 
+VISHAL                   
+AMITABH                  
+VIVEK                    
+VIPUL                    
+SATISH                   
+GEETIKA                  
+
+(8 row(s) affected)
+
+DEPARTMENT
+-------------------------
+Account                  
+Admin                    
+HR                       
+
+(3 row(s) affected)
+
+DEPARTMENT
+-------------------------
+Account                  
+Admin                    
+HR                       
+
+(3 row(s) affected)
+
+WorkerName
+----------
+Mon
+Nih
+Vis
+Ami
+Viv
+Vip
+Sat
+Gee
+
+(8 row(s) affected)
+
+
+-------------------------
+Monika
+Niharika
+Vishal
+Amitabh
+Vivek
+Vipul
+Satish
+Geetika
+
+(8 row(s) affected)
+
+
+-------------------------
+Monika                   
+Niharika                 
+Vishal                   
+Amitabh                  
+Vivek                    
+Vipul                    
+Satish                   
+Geetika                  
+
+(8 row(s) affected)
+
+department                
+------------------------- -----------
+Account                   7
+Admin                     5
+HR                        2
+
+(3 row(s) affected)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MonikA                   
+NihArikA                 
+VishAl                   
+AmitAbh                  
+Vivek                    
+Vipul                    
+SAtish                   
+GeetikA                  
+
+(8 row(s) affected)
+
+FULL_NAME
+---------------------------------------------------
+Monika                    Arora                    
+Niharika                  Verma                    
+Vishal                    Singhal                  
+Amitabh                   Singh                    
+Vivek                     Bhati                    
+Vipul                     Diwan                    
+Satish                    Kumar                    
+Geetika                   Chauhan                  
+
+(8 row(s) affected)
+
